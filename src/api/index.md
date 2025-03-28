@@ -26,7 +26,10 @@ Once you have your API key, you can begin exploring the API. Use the resources b
 
 For more information on the FAC API and the information it provides, see our [terms and conditions]({{ config.baseUrl }}api/terms/).
 
-- [Getting started](https://www.fac.gov/api/getting-started/): Learn how to begin using the FAC API and test your endpoints.
+## ** FAC API Resources**
+Here are some guides to help you use the FAC API:
+
+- [Getting started](https://www.fac.gov/api/getting-started/): Begin using the FAC API and test your endpoints.
 - [Examples](https://www.fac.gov/api/examples/): Example API queries using cURL, PowerShell, and Python.
 - [PostgREST server tools](https://postgrest.org/en/v12/): The FAC uses PostgREST for our API server. Use their documentation for more help.
 - [Data dictionary](https://www.fac.gov/api/dictionary/): Get details about the API data fields and a map of how the FAC API data compares to the historical Census data.
