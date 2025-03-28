@@ -10,7 +10,7 @@ eleventyComputed:
     parent: API resources
 ---
 
-# Retriving many results from the FAC API
+# Retrieving many results from the FAC API
 
 Every year, roughly 40,000-50,000 audits are submitted to the FAC. Given that there is data in the FAC database going back to 2016, that means there are more than 200,000 audits, with more than 2.5M `federal_awards` records.
 
