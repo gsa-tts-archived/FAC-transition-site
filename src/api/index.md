@@ -26,7 +26,7 @@ Once you have your API key, you can begin exploring the API. Use the resources b
 
 For more information on the FAC API and the information it provides, see our [terms and conditions]({{ config.baseUrl }}api/terms/).
 
-## FAC API Resources
+## API Guides, Tutorials, and Dictionaries
 Here are some guides to help you use the FAC API:
 
 - [Getting started](https://www.fac.gov/api/getting-started/): Begin using the FAC API and test your endpoints.
